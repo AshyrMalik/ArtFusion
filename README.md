@@ -1,4 +1,3 @@
-Below is a sample README.md content for your GitHub repository:
 
 ---
 
@@ -118,5 +117,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the open-source community for the tools and inspiration behind this project.
 
 ---
-
-Feel free to adjust any sections or paths to fit your project’s specific setup and structure. Happy coding!
